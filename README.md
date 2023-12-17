@@ -1,2 +1,2 @@
-# TooyhKG
+# ToothKG
 Orthodontics Knowledge Graph
